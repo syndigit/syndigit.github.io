@@ -1,0 +1,6 @@
+---
+published: true
+title: Post 0
+layout: post
+---
+Gotta start somewhere
