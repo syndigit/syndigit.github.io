@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://syndigit.github.io
+title: The Arbitruary
+email: syndigit@gmail.com
+author: syndigit
+description: A place for arbitrary.
+paginate: 3
+google_analytics: 
